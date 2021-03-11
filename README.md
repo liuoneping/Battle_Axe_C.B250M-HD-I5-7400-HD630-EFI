@@ -4,6 +4,7 @@
 CPU：I57400  
 集显：HD630  
 
-Big Sur 11.2.3 OC 0.6.6
+Big Sur 11.2.3  
+OC 0.6.6  
 
 无独立显卡DVI、HDMI输出正常。
